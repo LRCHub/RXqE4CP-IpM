@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カルテNo.2222",
+  "base_artist": "きゅるりんってしてみて",
+  "createdAt": "2025-12-08T17:38:10.081944Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カルテNo.2222",
+      "artist": "きゅるりんってしてみて",
+      "has_synced": false,
+      "path": "select/pl_01_カルテNo.2222_きゅるりんってしてみて.txt"
+    }
+  ]
+}
